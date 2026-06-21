@@ -4,5 +4,5 @@
 
 
 
-# Mr-Fuzzy-Pants-Cursor-
+# Mr-Fuzzy-Pants-Cursor
 just a custom Cursor ;)
